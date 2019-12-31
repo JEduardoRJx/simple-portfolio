@@ -1,0 +1,11 @@
+.mtncover-section {
+  height: 100vh;
+  width: 100%;
+  background-image: url('../../assets/mountains_black_white.png');
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  z-index: 2;
+  position: absolute;
+  box-shadow: 0px 50px 50px 0px rgba(0, 0, 0, 1);
+}

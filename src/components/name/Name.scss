@@ -1,0 +1,27 @@
+.name-section {
+  height: 100vh;
+  width: 100%;
+  display:flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  z-index: 1;
+  position: fixed;
+  mix-blend-mode: difference;
+}
+
+.name {
+  font-size: 4em;
+  font-weight: 800;
+}
+
+.name-software-developer {
+  font-size: 2.5em;
+  font-weight: 100;
+}
+
+.name, 
+.name-software-developer {
+  margin-right: 5%;
+  color: white;
+}
