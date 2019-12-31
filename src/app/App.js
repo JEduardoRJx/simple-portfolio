@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
 import './App.scss';
-import { Top } from '../components/top/Top'
+import { Mainbackgrnd } from '../components/mainbackgrnd/MainBackGrnd';
+import { Name } from '../components/name/Name';
 
 class App extends Component {
 
   render() {
     return (
       <main>
-        <Top />
+        <Name />
+        <Mainbackgrnd />
       </main>
     )
   }
