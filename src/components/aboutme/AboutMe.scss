@@ -4,19 +4,18 @@
   z-index: 2;
   position: relative;
   padding: 5%;
-
 }
 
 .aboutme-image {
   overflow: hidden;
   width: 50%;
-  height: 80%;
+  height: 70%;
   display: flex;
   flex-direction: column;
 }
 
 .aboutme-text {
-  height: 20%;
+  height: 30%;
   width: 50%;
   display: flex;
   align-items: center;
@@ -24,7 +23,10 @@
   justify-content: center;
   color: white;
   font-size: 1.75em;
+}
 
+p {
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 img {
@@ -34,7 +36,7 @@ img {
   margin: auto;
 }
 
-@media screen and (max-width: 1345px) {
+@media screen and (max-width: 1280px) {
   .aboutme-section {
     display: flex;
     justify-content: center;
