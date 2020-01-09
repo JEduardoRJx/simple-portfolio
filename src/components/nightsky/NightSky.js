@@ -13,13 +13,13 @@ export const NightSky = () => {
           {/* </div> */}
           <div className='links-wrapper'>
             <a href="https://github.com/JEduardoRJx" target="_blank" rel="noopener noreferrer">
-              <img className='icon' src={require('../../assets/github.png')} alt='github icon' />
+              <img className='icon' src={require('../../assets/github.webp')} alt='github icon' />
             </a>
             <a href="https://www.linkedin.com/in/jeduardorjx/" target="_blank" rel="noopener noreferrer">
-              <img className='icon' src={require('../../assets/linkedin.png')} alt='linkedin icon' />
+              <img className='icon' src={require('../../assets/linkedin.webp')} alt='linkedin icon' />
             </a>
             <a href="mailto:jeduardorjx@gmail.com" target="_blank" rel="noopener noreferrer">
-              <img className='icon' src={require('../../assets/paper-plane.png')} alt='email icon' />
+              <img className='icon' src={require('../../assets/paper-plane.webp')} alt='email icon' />
             </a>
           </div>
         </div>
