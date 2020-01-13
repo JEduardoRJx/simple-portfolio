@@ -1,29 +1,26 @@
 {
   "files": {
-    "main.css": "/simple-portfolio/static/css/main.711acef8.chunk.css",
-    "main.js": "/simple-portfolio/static/js/main.fdb06a82.chunk.js",
-    "main.js.map": "/simple-portfolio/static/js/main.fdb06a82.chunk.js.map",
+    "main.css": "/simple-portfolio/static/css/main.18d45ec1.chunk.css",
+    "main.js": "/simple-portfolio/static/js/main.d1112669.chunk.js",
+    "main.js.map": "/simple-portfolio/static/js/main.d1112669.chunk.js.map",
     "runtime-main.js": "/simple-portfolio/static/js/runtime-main.5f5c7ac1.js",
     "runtime-main.js.map": "/simple-portfolio/static/js/runtime-main.5f5c7ac1.js.map",
     "static/js/2.86a7da6a.chunk.js": "/simple-portfolio/static/js/2.86a7da6a.chunk.js",
     "static/js/2.86a7da6a.chunk.js.map": "/simple-portfolio/static/js/2.86a7da6a.chunk.js.map",
     "index.html": "/simple-portfolio/index.html",
-    "precache-manifest.f680b85fe1e29482ee75b5a2acb89b71.js": "/simple-portfolio/precache-manifest.f680b85fe1e29482ee75b5a2acb89b71.js",
+    "precache-manifest.89a63589f74d6a71614eaa5dda51807c.js": "/simple-portfolio/precache-manifest.89a63589f74d6a71614eaa5dda51807c.js",
     "service-worker.js": "/simple-portfolio/service-worker.js",
-    "static/css/main.711acef8.chunk.css.map": "/simple-portfolio/static/css/main.711acef8.chunk.css.map",
+    "static/css/main.18d45ec1.chunk.css.map": "/simple-portfolio/static/css/main.18d45ec1.chunk.css.map",
     "static/js/2.86a7da6a.chunk.js.LICENSE": "/simple-portfolio/static/js/2.86a7da6a.chunk.js.LICENSE",
-    "static/media/Canyon.scss": "/simple-portfolio/static/media/canyon.99bc0c18.webp",
-    "static/media/github.webp": "/simple-portfolio/static/media/github.f7e317e5.webp",
-    "static/media/linkedin.webp": "/simple-portfolio/static/media/linkedin.5e98194d.webp",
-    "static/media/me_bw.webp": "/simple-portfolio/static/media/me_bw.31a8413e.webp",
-    "static/media/MtnCover.scss": "/simple-portfolio/static/media/mountains_black_white.27c0c369.webp",
-    "static/media/NightSky.scss": "/simple-portfolio/static/media/nightsky.d2a22246.webp",
-    "static/media/paper-plane.webp": "/simple-portfolio/static/media/paper-plane.44efbf89.webp"
+    "static/media/Canyon.scss": "/simple-portfolio/static/media/canyon_opt.6fe04c79.png",
+    "static/media/me_bw_opt.jpg": "/simple-portfolio/static/media/me_bw_opt.d818664f.jpg",
+    "static/media/MtnCover.scss": "/simple-portfolio/static/media/mountains_black_white_opt.b1931b08.png",
+    "static/media/NightSky.scss": "/simple-portfolio/static/media/nightsky_opt.a6e54c5a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5f5c7ac1.js",
     "static/js/2.86a7da6a.chunk.js",
-    "static/css/main.711acef8.chunk.css",
-    "static/js/main.fdb06a82.chunk.js"
+    "static/css/main.18d45ec1.chunk.css",
+    "static/js/main.d1112669.chunk.js"
   ]
 }
